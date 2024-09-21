@@ -1,0 +1,121 @@
+.leftbox{
+	width: 50%;
+	height: 400px;
+	background-color: #e5edf6;
+	float: left;
+}
+.rightbox
+{
+	width: 50%;
+	height: 550px;
+	background-color: #e5edf6;
+	float: left;
+}
+.facebook{
+	margin-top: 185px;
+	margin-left: 133px;
+
+}
+.facebookhelp{
+	margin-top: 5px;
+	margin-left: 133px;
+}
+.peoplein{
+	margin-top: 2px;
+	margin-left: 133px;
+}
+.box{
+	margin-top: 110px;
+	margin-left: 100px;
+	width: 370px;
+	background-color: white; 
+	height: 350px;
+	border-radius: 10px;
+	float: left;
+	box-shadow: px;
+	border: 1px solid grey;
+
+}
+.email{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.password{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.login
+{
+	margin-top: 30px;
+	margin-left: 20px;
+	background-color: blue;
+	border-radius: 10px;
+	width: 332px;
+	height: 45px;
+}
+.logind
+{
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 20px;
+}
+.forgot
+{
+	margin-top: px;
+	margin-left: 20px;
+	background-color: white;
+	border-radius: 10px;
+	width: 322px;
+	height: 33px;
+}	
+.forgott
+{
+	padding-top: 13px;
+	text-align: center;
+	color: blue;
+	font-family: arial;
+	font-size: 13px;
+
+}
+.greenbox
+{
+	margin-top: 20px;
+	margin-left: 85px;
+	background-color: rgb(67, 177, 67);
+	border-radius: 10px;
+	width: 180px;
+	height: 45px;
+}
+.create
+{
+	padding-top: 12px;
+	color: white;
+	font-family: arial;
+	font-size: 16.5px;
+	text-align: center;
+	font-weight: bold;
+}
+.email input
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.password input
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.logind a
+{
+	text-decoration: none;
+	color: white;
+}
+.forgott a
+{
+	text-decoration: none;
+}
