@@ -1,32 +1,35 @@
+.whole
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
 .leftbox{
-	width: 50%;
 	height: 400px;
 	background-color: #e5edf6;
-	float: left;
+	justify-content: center;
 }
 .rightbox
 {
-	width: 50%;
+	margin-left: 50px;
+	margin-right: 50px;
 	height: 550px;
 	background-color: #e5edf6;
-	float: left;
+	display: flex;
+	justify-content: center;
 }
 .facebook{
 	margin-top: 185px;
-	margin-left: 133px;
 
 }
 .facebookhelp{
 	margin-top: 5px;
-	margin-left: 133px;
 }
 .peoplein{
 	margin-top: 2px;
-	margin-left: 133px;
 }
 .box{
 	margin-top: 110px;
-	margin-left: 100px;
 	width: 370px;
 	background-color: white; 
 	height: 350px;
