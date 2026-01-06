@@ -20,13 +20,19 @@
 }
 .facebook{
 	margin-top: 184px;
-
+	color: blue;
+	font-family: Helvetica;
+	font-size: 62px;
 }
 .facebookhelp{
 	margin-top: 5px;
+	color: black;
+	font-size: 35px;
 }
 .peoplein{
 	margin-top: 2px;
+	color: black;
+	font-size: 35px;
 }
 .box{
 	margin-top: 110px;
