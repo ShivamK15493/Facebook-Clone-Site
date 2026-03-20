@@ -1,123 +1,114 @@
 .whole
 {
+	margin-top: 4rem;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	margin-bottom: 2rem;
 }
 .leftbox{
-	height: 400px;
+	width: 23rem;
+	height: 19.5rem;
 	background-color: #e5edf6;
 	justify-content: center;
 }
 .rightbox
 {
-	margin-left: 50px;
-	margin-right: 50px;
-	height: 550px;
+	margin-left: 2rem;
+	margin-right: 2rem;
+	width: 23rem;
+	height: 23rem;
 	background-color: #e5edf6;
 	display: flex;
 	justify-content: center;
 }
 .facebook{
-	margin-top: 184px;
+	margin-top: 9rem;
 	color: blue;
 	font-family: Helvetica;
-	font-size: 62px;
+	font-size: 3.3rem;
 }
 .facebookhelp{
-	margin-top: 5px;
+	margin-top: 1rem;
 	color: black;
-	font-size: 35px;
-}
-.peoplein{
-	margin-top: 2px;
-	color: black;
-	font-size: 35px;
+	font-size: 1.7rem;
 }
 .box{
-	margin-top: 110px;
-	width: 370px;
+	margin-top: 5rem;
+	width: 18.8rem;
 	background-color: white; 
-	height: 350px;
-	border-radius: 10px;
-	float: left;
-	box-shadow: px;
-	border: 1px solid grey;
-
+	height: 17rem;
+	border-radius: 0.4rem;
+	border: 0.02rem solid grey;
 }
 .email{
-	margin-top: 20px;
-	margin-left: 20px;
+	margin-top: 1rem;
+	margin-left: 1rem;
 }
 .password{
-	margin-top: 10px;
-	margin-left: 20px;
+	margin-top: 0.5rem;
+	margin-left: 1rem;
 }
 .login
 {
-	margin-top: 30px;
-	margin-left: 20px;
+	margin-top: 1.5rem;
+	margin-left: 1rem;
 	background-color: blue;
-	border-radius: 10px;
-	width: 332px;
-	height: 45px;
+	border-radius: 0.4rem;
+	width: 16.8rem;
 }
 .logind
 {
-	padding: 10px;
+	padding: 0.5rem;
 	text-align: center;
 	color: white;
 	font-weight: bold;
 	font-family: arial;
-	font-size: 20px;
+	font-size: 0.9rem;
 }
 .forgot
 {
-	margin-top: px;
-	margin-left: 20px;
-	background-color: white;
-	border-radius: 10px;
-	width: 322px;
-	height: 33px;
+	margin-top: 0.5rem;
+	margin-left: 1.2rem;
+	width: 17rem;
 }	
 .forgott
 {
-	padding-top: 13px;
+	padding-top: 1rem;
 	text-align: center;
 	color: blue;
 	font-family: arial;
-	font-size: 13px;
-
-}
-.greenbox
-{
-	margin-top: 20px;
-	margin-left: 85px;
-	background-color: rgb(67, 177, 67);
-	border-radius: 10px;
-	width: 180px;
-	height: 45px;
+	font-size: 0.65rem;
 }
 .create
 {
-	padding-top: 12px;
+	margin-top: 1rem;
+	margin-left: 4.9rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 9rem;
+	height: 2rem;
 	color: white;
+	background-color: rgb(24, 194, 49);
+	border-radius: 0.3rem;
 	font-family: arial;
-	font-size: 16.5px;
+	font-size: 0.85rem;
 	text-align: center;
 	font-weight: bold;
+	cursor: pointer;
 }
 .email input
 {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
+	padding-top: 0.6rem;
+	padding-bottom: 0.6rem;
+	padding-left: 0.6rem;
 }
 .password input
 {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
+	padding-top: 0.6rem;
+	padding-bottom: 0.6rem;
+	padding-left: 0.6rem;
 }
 .logind a
 {
