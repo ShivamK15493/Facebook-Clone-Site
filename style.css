@@ -98,14 +98,9 @@
 	font-weight: bold;
 	cursor: pointer;
 }
-.email input
+input
 {
-	padding-top: 0.6rem;
-	padding-bottom: 0.6rem;
-	padding-left: 0.6rem;
-}
-.password input
-{
+	width: 90%;
 	padding-top: 0.6rem;
 	padding-bottom: 0.6rem;
 	padding-left: 0.6rem;
